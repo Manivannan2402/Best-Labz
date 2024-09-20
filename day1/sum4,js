@@ -1,0 +1,4 @@
+//convert celsius to fahrenheit
+var celsius=24
+var a=((celsius*9/5)+32)
+console.log("fahrenheit:"+a);
